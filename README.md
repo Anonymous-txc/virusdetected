@@ -21,7 +21,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/Anonymous-txc/Detectvirus.git
+git clone https://github.com/Anonymous-txc/virusdetected.git
 
 cd virusdetected
 
